@@ -1,7 +1,7 @@
 ### service worker
 
-[chrome:inspect](chrome://inspect/#service-workers)
+chrome 查看 service worker 链接状态
 
-[chrome:internals](chrome://serviceworker-internals/)
+chrome://inspect/#service-workers
 
-[baidu](https://www.baidu.com/)
+chrome://serviceworker-internals/
